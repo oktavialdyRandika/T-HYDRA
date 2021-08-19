@@ -56,3 +56,9 @@ After installing you can use 'thydra' command to access automate menu & 'hydra' 
 
 ![Screenshot_20210818-151227_Termux](https://user-images.githubusercontent.com/72663288/129876615-e4503f72-c385-44a4-8a16-6ddcba3b22e8.jpg)
 
+  
+---
+### ❤️Supporters❤️ 
+[![Stars @isuruwa/T-HYDRA](https://reporoster.com/stars/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/stargazers)
+[![Forks @isuruwa/T-HYDRA](https://reporoster.com/forks/dark/isuruwa/T-HYDRA)](https://github.com/isuruwa/T-HYDRA/network/members)
+---
