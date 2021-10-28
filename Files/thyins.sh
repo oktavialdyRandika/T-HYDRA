@@ -3,7 +3,5 @@
 ./configure
 make
 make install
-chmod +x hydra
-chmod +x thydra
-cp -r hydra $PREFIX/bin
-cp -r thydra $PREFIX/bin
+chmod +x *
+cp -r hydra thydra $PREFIX/bin
