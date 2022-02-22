@@ -53,7 +53,7 @@ def menu():
     username = input("\033[1;96m [*] Enter Username : ")
     target = input("\033[1;95m [*] Enter IP/Hostname : ")
     list = input("\033[1;32m [*] Enter Wordlist : ")
-    os.system("hydra -l %s -P %s %s ftp" % (username, list, target))
+    os.system("hydra -l %s -P %s %s" % (username, list, target))
     back()
 
   elif choice == "3":
